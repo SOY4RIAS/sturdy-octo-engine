@@ -1,3 +1,4 @@
 export enum PATHS {
-  LOGIN = '/'
+  LOGIN = '/',
+  COUNTER = '/counter'
 }
